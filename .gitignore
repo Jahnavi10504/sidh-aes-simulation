@@ -1,0 +1,26 @@
+---
+
+### 🚫 .gitignore
+
+```gitignore
+# Byte-compiled / optimized files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Environment folders
+venv/
+env/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log or temp files (optional)
+*.log
+*.out
+*.tmp
